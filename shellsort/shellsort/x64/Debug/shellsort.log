@@ -1,0 +1,7 @@
+﻿  shellsort.cpp
+D:\Virtual studio\c++ tools\sort\shellsort\shellsort\shellsort.cpp(11,2): error C2660: “shellsort”: 函数不接受 2 个参数
+      D:\Virtual studio\c++ tools\sort\shellsort\shellsort\shellsort.cpp(6,6):
+      参见“shellsort”的声明
+      D:\Virtual studio\c++ tools\sort\shellsort\shellsort\shellsort.cpp(11,2):
+      尝试匹配参数列表“(int [10], int)”时
+  

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Virtual studio\\c\u002B\u002B tools\\sort\\shellsort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3551F2AC-A3A6-4EA4-8C97-0AEF8D1E2B67}|shellsort\\shellsort.vcxproj|D:\\Virtual studio\\c\u002B\u002B tools\\sort\\shellsort\\shellsort\\shellsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3551F2AC-A3A6-4EA4-8C97-0AEF8D1E2B67}|shellsort\\shellsort.vcxproj|solutionrelative:shellsort\\shellsort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "shellsort.cpp",
+              "DocumentMoniker": "D:\\Virtual studio\\c\u002B\u002B tools\\sort\\shellsort\\shellsort\\shellsort.cpp",
+              "RelativeDocumentMoniker": "shellsort\\shellsort.cpp",
+              "ToolTip": "D:\\Virtual studio\\c\u002B\u002B tools\\sort\\shellsort\\shellsort\\shellsort.cpp",
+              "RelativeToolTip": "shellsort\\shellsort.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T12:46:13.156Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

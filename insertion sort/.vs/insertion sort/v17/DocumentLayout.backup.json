@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\FILES\\insertion sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C962B9F8-2FCE-4E50-927B-B1D05D42CF8B}|insertion sort\\insertion sort.vcxproj|D:\\VS\\FILES\\insertion sort\\insertion sort\\insertion sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C962B9F8-2FCE-4E50-927B-B1D05D42CF8B}|insertion sort\\insertion sort.vcxproj|solutionrelative:insertion sort\\insertion sort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "insertion sort.cpp",
+              "DocumentMoniker": "D:\\VS\\FILES\\insertion sort\\insertion sort\\insertion sort.cpp",
+              "RelativeDocumentMoniker": "insertion sort\\insertion sort.cpp",
+              "ToolTip": "D:\\VS\\FILES\\insertion sort\\insertion sort\\insertion sort.cpp",
+              "RelativeToolTip": "insertion sort\\insertion sort.cpp",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-23T09:38:27.647Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
